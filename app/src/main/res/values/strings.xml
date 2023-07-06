@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="start_with_your_friend">Stay connected with your friends and family</string>
+    <string name="get_started">Get Start</string>
+    <string name="secure_private_messaging">Secure, private messaging</string>
+
+</resources>
